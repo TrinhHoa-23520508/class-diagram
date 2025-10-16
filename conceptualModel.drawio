@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="28.2.7">
   <diagram name="Page-1" id="fjrj3E-hRCT1PjX5oIFA">
-    <mxGraphModel dx="1963" dy="3879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1071" dy="2647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,16 +77,16 @@
           <mxGeometry x="1060" y="100" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gaFOxqc10iYMJNFlEVJq-30" value="PhieuMuon" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="440" y="100" width="110" height="50" as="geometry" />
+          <mxGeometry x="430" y="-40" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gaFOxqc10iYMJNFlEVJq-32" value="PhieuTra" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="430" y="-50" width="110" height="50" as="geometry" />
+          <mxGeometry x="460" y="80" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gaFOxqc10iYMJNFlEVJq-34" value="DangKy" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="570" y="200" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gaFOxqc10iYMJNFlEVJq-35" value="ViPham" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="110" height="50" as="geometry" />
+          <mxGeometry x="250" y="-40" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gaFOxqc10iYMJNFlEVJq-36" value="QuyetDinhThanhLy" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="800" y="-160" width="110" height="50" as="geometry" />
